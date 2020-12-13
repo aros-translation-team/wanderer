@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 3.0 (11.12.2020)
+## version $VER: wanderer.catalog 3.0 (13.12.2020)
 ## language russian
 ## codeset 2104
 ;
@@ -124,7 +124,7 @@ MSG_MEN_SNAPSHT
 ; Snapshot
 ;
 MSG_MEN_ALL
-Все
+Всё
 ; All
 ;
 MSG_MEN_VIEW
@@ -357,7 +357,7 @@ MSG_REQU_OVERWRITE_E
 ; ?
 ;
 MSG_REQU_OVERWRITE_YESNO
-_Перезаписать|Перезаписать _все|_Нет|_Оставить все
+_Перезаписать|Перезаписать _всё|_Нет|_Оставить всё
 ; _Overwrite|Overwrite _all|_No|No _to all
 ;
 MSG_REQU_OVERWRITE_SKIPABORT
@@ -369,7 +369,7 @@ MSG_REQU_PROTECTION
 ; File Protection
 ;
 MSG_REQU_PROTECTION_UNPROTECT
-_Снять|Снять _все|_Нет|Нет _для ВСЕХ
+_Снять|Снять _всё|_Нет|Нет _для ВСЕХ
 ; _Unprotect|Unprotect _All|_No|No _to ALL
 ;
 MSG_REQU_PROTECTION_UNPROTECTDRAWER_S
