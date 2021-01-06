@@ -1,5 +1,5 @@
 ## version $VER: wanderer.catalog 1.0 (15.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
@@ -8,11 +8,11 @@ Wanderer
 ; Wanderer
 ;
 MSG_DESCRIPTION
-Dosya yÃ¶neticisi
+Dosya yöneticisi
 ; File manager
 ;
 MSG_SCREENTITLE
-Wanderer %s grafik belleÄŸi %s diÄŸer bellek
+Wanderer %s grafik belleði %s diðer bellek
 ; Wanderer %s graphics mem %s other mem
 ;
 MSG_MEM_B
@@ -44,7 +44,7 @@ B
 ; B
 ;
 MSG_MEN_EXECUTE
-Ã‡alÄ±ÅŸtÄ±r...
+Çalýþtýr...
 ; Execute...
 ;
 MSG_MEN_SC_EXECUTE
@@ -60,15 +60,15 @@ W
 ; W
 ;
 MSG_MEN_GUISET
-GUI ayarlarÄ±...
+GUI ayarlarý...
 ; GUI settings...
 ;
 MSG_MEN_ABOUT
-HakkÄ±nda...
+Hakkýnda...
 ; About...
 ;
 MSG_MEN_QUIT
-Ã‡Ä±kÄ±ÅŸ...
+Çýkýþ...
 ; Quit...
 ;
 MSG_MEN_SC_QUIT
@@ -80,7 +80,7 @@ Pencere
 ; Window
 ;
 MSG_MEN_NEWDRAW
-Yeni Ã§ekmece...
+Yeni çekmece...
 ; New drawer...
 ;
 MSG_MEN_SC_NEWDRAW
@@ -88,7 +88,7 @@ N
 ; N
 ;
 MSG_MEN_OPENPAR
-Ãœst dizini aÃ§
+Üst dizini aç
 ; Open parent
 ;
 MSG_MEN_CLOSE
@@ -100,11 +100,11 @@ K
 ; K
 ;
 MSG_MEN_UPDATE
-GÃ¼ncelle
+Güncelle
 ; Update
 ;
 MSG_MEN_CONTENTS
-Ä°Ã§eriÄŸini seÃ§
+Ýçeriðini seç
 ; Select contents
 ;
 MSG_MEN_SC_CONTENTS
@@ -112,7 +112,7 @@ A
 ; A
 ;
 MSG_MEN_CLRSEL
-SeÃ§imi temizle
+Seçimi temizle
 ; Clear selection
 ;
 MSG_MEN_SC_CLRSEL
@@ -124,27 +124,27 @@ Konumu kaydet
 ; Snapshot
 ;
 MSG_MEN_ALL
-TÃ¼mÃ¼
+Tümü
 ; All
 ;
 MSG_MEN_VIEW
-GÃ¶ster
+Göster
 ; View
 ;
 MSG_MEN_ICVIEW
-Simge gÃ¶rÃ¼nÃ¼mÃ¼
+Simge görünümü
 ; Icon view
 ;
 MSG_MEN_DCVIEW
-DetaylÄ± gÃ¶rÃ¼nÃ¼m
+Detaylý görünüm
 ; Detail view
 ;
 MSG_MEN_ALLFIL
-TÃ¼m dosyalar
+Tüm dosyalar
 ; All files
 ;
 MSG_MEN_SORTIC
-SÄ±rala
+Sýrala
 ; Sort
 ;
 MSG_MEN_CLNUP
@@ -156,27 +156,27 @@ MSG_MEN_SC_CLNUP
 ; .
 ;
 MSG_MEN_BYNAME
-Ada gÃ¶re
+Ada göre
 ; By name
 ;
 MSG_MEN_BYDATE
-Tarihe gÃ¶re
+Tarihe göre
 ; By date
 ;
 MSG_MEN_BYSIZE
-Boyuta gÃ¶re
+Boyuta göre
 ; By size
 ;
 MSG_MEN_BYTYPE
-TÃ¼re gÃ¶re
+Türe göre
 ; By type
 ;
 MSG_MEN_REVERSE
-Ters Ã§evir
+Ters çevir
 ; Reverse
 ;
 MSG_MEN_DRWFRST
-Ã–nce Ã‡ekmeceler
+Önce Çekmeceler
 ; Drawers first
 ;
 MSG_MEN_ICON
@@ -192,7 +192,7 @@ F
 ; F
 ;
 MSG_MEN_OPEN
-AÃ§
+Aç
 ; Open
 ;
 MSG_MEN_SC_OPEN
@@ -200,7 +200,7 @@ O
 ; O
 ;
 MSG_MEN_RENAME
-Yeniden adlandÄ±r...
+Yeniden adlandýr...
 ; Rename...
 ;
 MSG_MEN_SC_RENAME
@@ -220,11 +220,11 @@ Sil...
 ; Delete...
 ;
 MSG_MEN_TOOLS
-AraÃ§lar
+Araçlar
 ; Tools
 ;
 MSG_MEN_ICONSORTING
-Otomatik Simge SÄ±ralamayÄ± EtkinleÅŸtir
+Otomatik Simge Sýralamayý Etkinleþtir
 ; Enable Automatic Icon Sorting
 ;
 MSG_MEN_GROUPICONS
@@ -236,11 +236,11 @@ Kapat
 ; Close
 ;
 MSG_REALLYQUIT
-GerÃ§ekten Wanderer'den Ã§Ä±kmak istiyor musunuz?
+Gerçekten Wanderer'den çýkmak istiyor musunuz?
 ; Do you really want to quit Wanderer?
 ;
 MSG_YESNO
-*Evet|HayÄ±r
+*Evet|Hayýr
 ; *Yes|No
 ;
 MSG_DUMMY
@@ -248,11 +248,11 @@ DUMMY
 ; DUMMY
 ; DUMMY :)
 MSG_USERSCREENTITLE
-Wanderer %pc grafik belleÄŸi %pf diÄŸer bellek
+Wanderer %pc grafik belleði %pf diðer bellek
 ; Wanderer %pc graphics mem %pf other mem
 ;
 MSG_MEN_FORMAT
-Diski biÃ§imlendir...
+Diski biçimlendir...
 ; Format disk...
 ;
 MSG_MEN_SHUTDOWN
@@ -268,11 +268,11 @@ Ne yapmak istersiniz?
 ; What would you like to do?
 ;
 MSG_SHUTDOWN_BUTTONS
-GÃ¼cÃ¼ Kapat|BilgisayarÄ± Yeniden BaÅŸlat|AROS'u Yeniden BaÅŸlat|*VazgeÃ§
+Gücü Kapat|Bilgisayarý Yeniden Baþlat|AROS'u Yeniden Baþlat|*Vazgeç
 ; Power Off|Restart Computer|Restart AROS|*Cancel
 ;
 MSG_ACTION_NOT_SUPPORTED
-SeÃ§ilen eylem sisteminiz tarafÄ±ndan desteklenmiyor.
+Seçilen eylem sisteminiz tarafýndan desteklenmiyor.
 ; The selected action is not supported by your system.
 ;
 MSG_OK
@@ -280,11 +280,11 @@ MSG_OK
 ; *OK
 ;
 MSG_EMPTY_TRASH
-Ã‡Ã¶pÃ¼ BoÅŸalt
+Çöpü Boþalt
 ; Empty trash
 ;
 MSG_MEN_PUT_AWAY
-DÄ±ÅŸarÄ± BÄ±rak
+Dýþarý Býrak
 ; Put away
 ;
 MSG_MEN_SC_PUT_AWAY
@@ -292,7 +292,7 @@ P
 ; P
 ;
 MSG_MEN_LEAVE_OUT
-Yenine gÃ¶nder
+Yenine gönder
 ; Leave out
 ;
 MSG_MEN_SC_LEAVE_OUT
@@ -300,7 +300,7 @@ L
 ; L
 ;
 MSG_MEN_UNSNAPSHOT
-AnlÄ±k gÃ¶rÃ¼tÃ¼nÃ¼yÃ¼ kaldÄ±r
+Anlýk görütünüyü kaldýr
 ; Unsnapshot
 ;
 MSG_MEN_SC_UNSNAPSHOT
@@ -320,11 +320,11 @@ Dosya sil...
 ; Delete file...
 ;
 MSG_REQU_DELETE_YESNO
-_Evet|_TÃ¼mÃ¼nÃ¼ evet|_HayÄ±r|TÃ¼_mÃ¼ne hayÄ±r
+_Evet|_Tümünü evet|_Hayýr|Tü_müne hayýr
 ; _Yes|Yes to _all|_No|No _to all
 ;
 MSG_REQU_DELETE_DRAWER_S
-Ã‡ekmeceyi gerÃ§ekten silmek istiyor musunuz
+Çekmeceyi gerçekten silmek istiyor musunuz
 ; Really delete drawer
 ;
 MSG_REQU_DELETE_DRAWER_E
@@ -332,11 +332,11 @@ MSG_REQU_DELETE_DRAWER_E
 ; ?
 ;
 MSG_REQU_DELETE_FILE_S
-DosyayÄ± gerÃ§ekten silmek istiyor musunuz
+Dosyayý gerçekten silmek istiyor musunuz
 ; Really delete file
 ;
 MSG_REQU_DELETE_FILE_M
-konumlanmÄ±ÅŸ
+konumlanmýþ
 ; located in
 ;
 MSG_REQU_DELETE_FILE_E
@@ -344,15 +344,15 @@ MSG_REQU_DELETE_FILE_E
 ; ?
 ;
 MSG_REQU_OVERWRITE
-Dosya Ã¼zerine yaz...
+Dosya üzerine yaz...
 ; Overwrite file...
 ;
 MSG_REQU_OVERWRITE_S
-GerÃ§ekten dosya Ã¼zerine yazÄ±lsÄ±n mÄ±
+Gerçekten dosya üzerine yazýlsýn mý
 ; Really overwrite file
 ;
 MSG_REQU_OVERWRITE_M
-konumlanmÄ±ÅŸ
+konumlanmýþ
 ; located in
 ;
 MSG_REQU_OVERWRITE_E
@@ -360,23 +360,23 @@ MSG_REQU_OVERWRITE_E
 ; ?
 ;
 MSG_REQU_OVERWRITE_YESNO
-_Ãœzerine yaz|_TÃ¼mÃ¼nÃ¼ Ã¼zerine yaz|_HayÄ±r|TÃ¼_mÃ¼ne hayÄ±r
+_Üzerine yaz|_Tümünü üzerine yaz|_Hayýr|Tü_müne hayýr
 ; _Overwrite|Overwrite _all|_No|No _to all
 ;
 MSG_REQU_OVERWRITE_SKIPABORT
-A_tla|Ä°pt_al
+A_tla|Ýpt_al
 ; _Skip|_Abort
 ;
 MSG_REQU_PROTECTION
-Dosya KorumasÄ±
+Dosya Korumasý
 ; File Protection
 ;
 MSG_REQU_PROTECTION_UNPROTECT
-Kor_umayÄ± kaldÄ±r|TÃ¼mÃ¼nÃ¼n KorumasÄ±nÄ± K_aldÄ±r|_HayÄ±r|_TÃ¼mÃ¼ne HayÄ±r
+Kor_umayý kaldýr|Tümünün Korumasýný K_aldýr|_Hayýr|_Tümüne Hayýr
 ; _Unprotect|Unprotect _All|_No|No _to ALL
 ;
 MSG_REQU_PROTECTION_UNPROTECTDRAWER_S
-Ã‡ekmecenin korumasÄ±nÄ± kaldÄ±rmak ister misiniz
+Çekmecenin korumasýný kaldýrmak ister misiniz
 ; Do you wish to unprotect drawer
 ;
 MSG_REQU_PROTECTION_UNPROTECTDRAWER_E
@@ -384,11 +384,11 @@ MSG_REQU_PROTECTION_UNPROTECTDRAWER_E
 ; ?
 ;
 MSG_NOFILEACCESS_S
-Dosyaya eriÅŸilemedi
+Dosyaya eriþilemedi
 ; Can't access file
 ;
 MSG_NOFILEACCESS_M
-konumlanmÄ±ÅŸ
+konumlanmýþ
 ; located in
 ;
 MSG_NOFILEACCESS_E
@@ -396,7 +396,7 @@ MSG_NOFILEACCESS_E
 ;  
 ;
 MSG_NODRAWERACCESS_S
-Ã‡ekmeceye eriÅŸilemiyor
+Çekmeceye eriþilemiyor
 ; Can't access drawer
 ;
 MSG_NODRAWERACCESS_E
@@ -404,11 +404,11 @@ MSG_NODRAWERACCESS_E
 ;  
 ;
 MSG_REQU_FILEUNPROTECT_S
-DosyanÄ±n korumasÄ±nÄ± kaldÄ±rmak istiyor musunuz
+Dosyanýn korumasýný kaldýrmak istiyor musunuz
 ; Do you wish to unprotect file
 ;
 MSG_REQU_FILEUNPROTECT_M
-konumlanmÄ±ÅŸ
+konumlanmýþ
 ; located in
 ;
 MSG_REQU_FILEUNPROTECT_E
@@ -416,11 +416,11 @@ MSG_REQU_FILEUNPROTECT_E
 ; ?
 ;
 MSG_WANDERER_FILEACCESS
-Wanderer dosya eriÅŸimi
+Wanderer dosya eriþimi
 ; Wanderer file access
 ;
 MSG_WANDERER_FILEACCESS_PROCESSING
-Ä°ÅŸleniyor...
+Ýþleniyor...
 ; Processing...
 ;
 MSG_WANDERER_FILEACCESS_STOP
@@ -428,11 +428,11 @@ Dur
 ; Stop
 ;
 MSG_WANDERER_FILEACCESS_MOVEFROM
-Buradan taÅŸÄ±
+Buradan taþý
 ; Move from
 ;
 MSG_WANDERER_FILEACCESS_MOVETO
-Buraya taÅŸÄ±
+Buraya taþý
 ; Move to
 ;
 MSG_WANDERER_FILEACCESS_COPYFROM
@@ -448,11 +448,11 @@ Dosya
 ; File
 ;
 MSG_WANDERER_FILEACCESS_TRAFFIC
-Veri transfer oranÄ±
+Veri transfer oraný
 ; Data transfer rate
 ;
 MSG_WANDERER_FILEACCESS_DELETEFROM
-Ã‡ekmeceden sil
+Çekmeceden sil
 ; Delete from drawer
 ;
 MSG_WANDERER_FILEACCESS_FILETODELETE
@@ -460,11 +460,11 @@ Silinecek dosya
 ; File to delete
 ;
 MSG_WANDERER_FILEACCESS_NOOFFILES
-Ä°ÅŸlenen dosyalar:
+Ýþlenen dosyalar:
 ; Processed files:
 ;
 MSG_WANDERER_FILEACCESS_ACTUAL
-Mevcut dosyanÄ±n boyutu:
+Mevcut dosyanýn boyutu:
 ; Size of current file:
 ;
 MSG_WANDERER_FILEACCESS_TOTAL
@@ -472,31 +472,31 @@ Toplam boyut:
 ; Overall size:
 ;
 MSG_WANDERER_ERROR_FILE_OPERATION
-Dosya iÅŸlemi gerÃ§ekleÅŸtirilirken hata oluÅŸtu
+Dosya iþlemi gerçekleþtirilirken hata oluþtu
 ; Error occured while performing file operation
 ;
 MSG_FAILED_TO_ALLOCATE_MEMORY
-%d bayt bellek ayrÄ±lamadÄ±
+%d bayt bellek ayrýlamadý
 ; Failed to allocate %d bytes of memory
 ;
 MSG_FAILED_TO_READ_FILE
-Dosyadan okurken hata oluÅŸtu: %s\n
+Dosyadan okurken hata oluþtu: %s\n
 ; Error occured while reading from file: %s\n
 ;
 MSG_FAILED_TO_WRITE_TO_FILE
-Dosyaya yazarken hata oluÅŸtu: %s\n
+Dosyaya yazarken hata oluþtu: %s\n
 ; Error occured while writing to file: %s\n
 ;
 MSG_FAILED_TO_READ_FILE_INFO_BLOCK
-Dosya iÃ§in dosya bilgisi bloÄŸu okunamadÄ±:%s
+Dosya için dosya bilgisi bloðu okunamadý:%s
 ; Failed to read file info block for file: %s
 ;
 MSG_FAILED_TO_CREATE_DIRECTORY
-Dizin oluÅŸturulamadÄ±: %s\n
+Dizin oluþturulamadý: %s\n
 ; Failed to create directory: %s\n
 ;
 MSG_FAILED_TO_DELETE_FILE
-Dosya silinirken hata oluÅŸtu : %s\n
+Dosya silinirken hata oluþtu : %s\n
 ; Error occured whiled deleting file: %s\n
 ;
 MSG_FAILED_TO_LOCK_PATH
@@ -504,14 +504,14 @@ Yol kilitlenemedi: %s
 ; Failed to lock path: %s
 ;
 MSG_FAILED_TO_READ_DIRECTORY_CONTENT
-Dizinden okurken hata oluÅŸtu: %s\n
+Dizinden okurken hata oluþtu: %s\n
 ; Error occured while reading from directory: %s\n
 ;
 MSG_FAILED_TO_MOVE_FILE
-Dosya taÅŸÄ±nÄ±rken hata oluÅŸtu : %s\n
+Dosya taþýnýrken hata oluþtu : %s\n
 ; Error occured while moving file: %s\n
 ;
 MSG_FAILED_ERROR
-Hata mesajÄ±
+Hata mesajý
 ; Errormessage
 ;
