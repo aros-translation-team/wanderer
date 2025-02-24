@@ -144,16 +144,16 @@ Tutti i file
 ; All files
 ;
 MSG_MEN_SORTIC
-Ordina
+Ordinamento
 ; Sort
 ;
 MSG_MEN_CLNUP
-Pulisci
+Automatico
 ; Clean up
 ;
 MSG_MEN_SC_CLNUP
-U
-; U
+C
+; C
 ; 
 MSG_MEN_BYNAME
 Per nome
