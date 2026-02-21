@@ -482,37 +482,41 @@ Fallo al asignar %d bytes de memoria
 ; Failed to allocate %d bytes of memory
 ;
 MSG_FAILED_TO_READ_FILE
-Error mientras se leía el fichero: %s\n
-; Error occured while reading from file: %s\n
+leyendo el fichero: %s\n
+; reading from file: %s\n
 ;
 MSG_FAILED_TO_WRITE_TO_FILE
-Error mientras se escribía al fichero: %s\n
-; Error occured while writing to file: %s\n
+escribiendo al fichero: %s\n
+; writing to file: %s\n
 ;
 MSG_FAILED_TO_READ_FILE_INFO_BLOCK
-Fallo al leer el bloque de información del fichero: %s
-; Failed to read file info block for file: %s
+leyendo el bloque de información del fichero: %s
+; reading file info block for file: %s
 ;
 MSG_FAILED_TO_CREATE_DIRECTORY
-Fallo al crear el directorio: %s\n
-; Failed to create directory: %s\n
+creando el directorio: %s\n
+; creating directory: %s\n
 ;
 MSG_FAILED_TO_DELETE_FILE
-Fallo al borrar el fichero: %s\n
-; Error occured whiled deleting file: %s\n
+borrando el fichero: %s\n
+; deleting file: %s\n
 ;
 MSG_FAILED_TO_LOCK_PATH
-Fallo al bloquear el camino: %s
-; Failed to lock path: %s
+bloqueando el camino: %s
+; locking path: %s
 ;
 MSG_FAILED_TO_READ_DIRECTORY_CONTENT
-Error leyendo el directorio: %s\n
-; Error occured while reading from directory: %s\n
+leyendo el directorio: %s\n
+; reading from directory: %s\n
 ;
 MSG_FAILED_TO_MOVE_FILE
-Error moviendo el fichero: %s\n
-; Error occured while moving file: %s\n
+moviendo el fichero: %s\n
+; moving file: %s\n
 ;
 MSG_FAILED_ERROR
-Mensajedeerror
-; Errormessage
+Error
+; Error
+MSG_IO_ERROR
+Error de E/S
+; I/O Error
+;

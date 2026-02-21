@@ -471,3 +471,7 @@ MSG_WANDERER_FILEACCESS_TOTAL
 Taille totale :
 ; Overall size:
 ;
+MSG_IO_ERROR
+Erreur E/S
+; I/O Error
+;

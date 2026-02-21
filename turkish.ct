@@ -480,38 +480,42 @@ MSG_FAILED_TO_ALLOCATE_MEMORY
 ; Failed to allocate %d bytes of memory
 ;
 MSG_FAILED_TO_READ_FILE
-Dosyadan okurken hata oluþtu: %s\n
-; Error occured while reading from file: %s\n
+dosyadan okuma: %s\n
+; reading from file: %s\n
 ;
 MSG_FAILED_TO_WRITE_TO_FILE
-Dosyaya yazarken hata oluþtu: %s\n
-; Error occured while writing to file: %s\n
+dosyaya yazma: %s\n
+; writing to file: %s\n
 ;
 MSG_FAILED_TO_READ_FILE_INFO_BLOCK
-Dosya için dosya bilgisi bloðu okunamadý:%s
-; Failed to read file info block for file: %s
+dosya bilgi bloðu okuma: %s
+; reading file info block for file: %s
 ;
 MSG_FAILED_TO_CREATE_DIRECTORY
-Dizin oluþturulamadý: %s\n
-; Failed to create directory: %s\n
+dizin oluþturma: %s\n
+; creating directory: %s\n
 ;
 MSG_FAILED_TO_DELETE_FILE
-Dosya silinirken hata oluþtu : %s\n
-; Error occured whiled deleting file: %s\n
+dosya silme: %s\n
+; deleting file: %s\n
 ;
 MSG_FAILED_TO_LOCK_PATH
-Yol kilitlenemedi: %s
-; Failed to lock path: %s
+yol kilitleme: %s
+; locking path: %s
 ;
 MSG_FAILED_TO_READ_DIRECTORY_CONTENT
-Dizinden okurken hata oluþtu: %s\n
-; Error occured while reading from directory: %s\n
+dizinden okuma: %s\n
+; reading from directory: %s\n
 ;
 MSG_FAILED_TO_MOVE_FILE
-Dosya taþýnýrken hata oluþtu : %s\n
-; Error occured while moving file: %s\n
+dosya taþýma: %s\n
+; moving file: %s\n
 ;
 MSG_FAILED_ERROR
-Hata mesajý
-; Errormessage
+Hata
+; Error
+;
+MSG_IO_ERROR
+G/Ç Hatasý
+; I/O Error
 ;

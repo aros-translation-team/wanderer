@@ -483,37 +483,41 @@ Akatsa memorian %d byte egokitzen
 ; Failed to allocate %d bytes of memory
 ;
 MSG_FAILED_TO_READ_FILE
-Akatsa fitxategia irakurtzen: %s\n
-; Error occured while reading from file: %s\n
+fitxategia irakurtzen: %s\n
+; reading from file: %s\n
 ;
 MSG_FAILED_TO_WRITE_TO_FILE
-Akatsa fitxategia idazten: %s\n
-; Error occured while writing to file: %s\n
+fitxategia idazten: %s\n
+; writing to file: %s\n
 ;
 MSG_FAILED_TO_READ_FILE_INFO_BLOCK
-Akatsa fitxategiaren informazio blokea irakurtzen: %s
-; Failed to read file info block for file: %s
+fitxategiaren informazio blokea irakurtzen: %s
+; reading file info block for file: %s
 ;
 MSG_FAILED_TO_CREATE_DIRECTORY
-Akatsa direktorioa sortzen : %s\n
-; Failed to create directory: %s\n
+direktorioa sortzen: %s\n
+; creating directory: %s\n
 ;
 MSG_FAILED_TO_DELETE_FILE
-Akatsa fitxategia ezabatzen: %s\n
-; Error occured whiled deleting file: %s\n
+fitxategia ezabatzen: %s\n
+; deleting file: %s\n
 ;
 MSG_FAILED_TO_LOCK_PATH
-Akatsa bidea bloqueatzen: %s
-; Failed to lock path: %s
+bidea bloqueatzen: %s
+; locking path: %s
 ;
 MSG_FAILED_TO_READ_DIRECTORY_CONTENT
-Akatsa direktorioa irakurtzen: %s\n
-; Error occured while reading from directory: %s\n
+direktorioa irakurtzen: %s\n
+; reading from directory: %s\n
 ;
 MSG_FAILED_TO_MOVE_FILE
-Akatsa fitxategia mugitzen: %s\n
-; Error occured while moving file: %s\n
+fitxategia mugitzen: %s\n
+; moving file: %s\n
 ;
 MSG_FAILED_ERROR
-Errormezua
-; Errormessage
+Errorea
+; Error
+MSG_IO_ERROR
+I/O Errorea
+; I/O Error
+;

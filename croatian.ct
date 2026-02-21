@@ -455,3 +455,7 @@ MSG_WANDERER_FILEACCESS_TOTAL
 Sveukupna velièina:
 ; Overall size:
 ;
+MSG_IO_ERROR
+Gre¹ka I/O
+; I/O Error
+;

@@ -7,3 +7,7 @@ MSG_DUMMY
 DUMMY
 ; DUMMY
 ;
+MSG_IO_ERROR
+I/O-virhe
+; I/O Error
+;

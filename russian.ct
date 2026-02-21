@@ -481,38 +481,42 @@ MSG_FAILED_TO_ALLOCATE_MEMORY
 ; Failed to allocate %d bytes of memory
 ;
 MSG_FAILED_TO_READ_FILE
-Ошибка при чтении из файла: %s\n
-; Error occured while reading from file: %s\n
+чтение из файла: %s\n
+; reading from file: %s\n
 ;
 MSG_FAILED_TO_WRITE_TO_FILE
-Ошибка при записи в файл: %s\n
-; Error occured while writing to file: %s\n
+запись в файл: %s\n
+; writing to file: %s\n
 ;
 MSG_FAILED_TO_READ_FILE_INFO_BLOCK
-Ошибка чтения дескриптора файла: %s
-; Failed to read file info block for file: %s
+чтение дескриптора файла: %s
+; reading file info block for file: %s
 ;
 MSG_FAILED_TO_CREATE_DIRECTORY
-Ошибка при создании директории: %s\n
-; Failed to create directory: %s\n
+создание директории: %s\n
+; creating directory: %s\n
 ;
 MSG_FAILED_TO_DELETE_FILE
-Ошибка при удалении файла: %s\n
-; Error occured whiled deleting file: %s\n
+удаление файла: %s\n
+; deleting file: %s\n
 ;
 MSG_FAILED_TO_LOCK_PATH
-Ошибка на заблокированном пути: %s
-; Failed to lock path: %s
+блокировка пути: %s
+; locking path: %s
 ;
 MSG_FAILED_TO_READ_DIRECTORY_CONTENT
-Ошибка при чтении из директории: %s\n
-; Error occured while reading from directory: %s\n
+чтение из директории: %s\n
+; reading from directory: %s\n
 ;
 MSG_FAILED_TO_MOVE_FILE
-Ошибка при перемещении файла: %s\n
-; Error occured while moving file: %s\n
+перемещение файла: %s\n
+; moving file: %s\n
 ;
 MSG_FAILED_ERROR
-Сообщение об ошибке
-; Errormessage
+Ошибка
+; Error
+;
+MSG_IO_ERROR
+Ошибка ввода/вывода
+; I/O Error
 ;

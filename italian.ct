@@ -484,38 +484,42 @@ Impossibile allocare %d byte di memoria
 ; Failed to allocate %d bytes of memory
 ;
 MSG_FAILED_TO_READ_FILE
-Errore durante la lettura del file: %s\n
-; Error occured while reading from file: %s\n
+lettura del file: %s\n
+; reading from file: %s\n
 ;
 MSG_FAILED_TO_WRITE_TO_FILE
-Errore durante la scrittura sul file: %s\n
-; Error occured while writing to file: %s\n
+scrittura sul file: %s\n
+; writing to file: %s\n
 ;
 MSG_FAILED_TO_READ_FILE_INFO_BLOCK
-Impossibile leggere le informazioni blocco file: %s
-; Failed to read file info block for file: %s
+lettura informazioni blocco file: %s
+; reading file info block for file: %s
 ;
 MSG_FAILED_TO_CREATE_DIRECTORY
-Impossibile creare la directory:: %s\n
-; Failed to create directory: %s\n
+creazione della directory: %s\n
+; creating directory: %s\n
 ;
 MSG_FAILED_TO_DELETE_FILE
-Errore durante l'eliminazione del file: %s\n
-; Error occured whiled deleting file: %s\n
+eliminazione del file: %s\n
+; deleting file: %s\n
 ;
 MSG_FAILED_TO_LOCK_PATH
-Impossibile bloccare il percorso: %s
-; Failed to lock path: %s
+blocco del percorso: %s
+; locking path: %s
 ;
 MSG_FAILED_TO_READ_DIRECTORY_CONTENT
-Errore visualizzazione directory: %s\n
-; Error occured while reading from directory: %s\n
+lettura della directory: %s\n
+; reading from directory: %s\n
 ;
 MSG_FAILED_TO_MOVE_FILE
-Errore durante lo spostamento del file: %s\n
-; Error occured while moving file: %s\n
+spostamento del file: %s\n
+; moving file: %s\n
 ;
 MSG_FAILED_ERROR
 Errore
-; Errormessage
+; Error
+;
+MSG_IO_ERROR
+Errore I/O
+; I/O Error
 ;

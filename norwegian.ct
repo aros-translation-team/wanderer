@@ -482,29 +482,32 @@ MSG_FAILED_TO_ALLOCATE_MEMORY
 Klarte ikke allokere nok minne (%d byte) 
 ;
 MSG_FAILED_TO_READ_FILE
-En feil oppstod under lesing av filen: %s\n
+lesing av filen: %s\n
 ;
 MSG_FAILED_TO_WRITE_TO_FILE
-En feil oppstod under skriving til filen: %s\n
+skriving til filen: %s\n
 ;
 MSG_FAILED_TO_READ_FILE_INFO_BLOCK
-Klarte ikke lese file info blocken for filen: %s
+lesing av file info blocken: %s
 ;
 MSG_FAILED_TO_CREATE_DIRECTORY
-Klarte ikke opprette katalogen: %s\n
+opprettelse av katalogen: %s\n
 ;
 MSG_FAILED_TO_DELETE_FILE
-Klarte ikke slette filen: %s\n
+sletting av filen: %s\n
 ;
 MSG_FAILED_TO_LOCK_PATH
-Klarte ikke opprette fillås for: %s
+fillås for: %s
 ;
 MSG_FAILED_TO_READ_DIRECTORY_CONTENT
-En feil oppstod under lesing av innholdet i katalogen: %s\n
+lesing av katalogen: %s\n
 ;
 MSG_FAILED_TO_MOVE_FILE
-En feil oppstod under flytting av filen: %s\n
+flytting av filen: %s\n
 ;
 MSG_FAILED_ERROR
-Feilmelding
+Feil
+;
+MSG_IO_ERROR
+I/O-feil
 ;

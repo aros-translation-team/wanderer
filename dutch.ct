@@ -231,3 +231,7 @@ MSG_DUMMY
 Dummy
 ; DUMMY
 ; DUMMY :)
+MSG_IO_ERROR
+I/O-fout
+; I/O Error
+;

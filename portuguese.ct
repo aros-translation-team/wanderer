@@ -219,3 +219,7 @@ MSG_USERSCREENTITLE
 Wanderer: Memória Gráfica %pc - Outra memória %f
 ; Wanderer %pc graphics mem %pf other mem
 ;
+MSG_IO_ERROR
+Erro de E/S
+; I/O Error
+;
