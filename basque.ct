@@ -60,11 +60,11 @@ W
 ; W
 ;
 MSG_MEN_GUISET
-GUIaren konfigurazioa
+GUIaren konfigurazioa...
 ; GUI settings...
 ;
 MSG_MEN_ABOUT
-... about
+... about...
 ; About...
 ;
 MSG_MEN_QUIT
@@ -224,7 +224,7 @@ Lanabesak
 ; Tools
 ;
 MSG_MEN_ICONSORTING
-Ikononoak automatikoki ordenatu 
+Ikononoak automatikoki ordenatu
 ; Enable Automatic Icon Sorting
 ;
 MSG_MEN_GROUPICONS
@@ -400,7 +400,7 @@ Ez dago tiradera atzitzerik
 ; Can't access drawer
 ;
 MSG_NODRAWERACCESS_E
-?  
+? 
 ;
 MSG_REQU_FILEUNPROTECT_S
 Benetan

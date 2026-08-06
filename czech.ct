@@ -316,7 +316,7 @@ S
 ; S
 ;
 MSG_REQU_DELETE
-Smazat soubor
+Smazat soubor...
 ; Delete file...
 ;
 MSG_REQU_DELETE_YESNO
@@ -344,7 +344,7 @@ MSG_REQU_DELETE_FILE_E
 ; ?
 ;
 MSG_REQU_OVERWRITE
-Pøepsat soubor
+Pøepsat soubor...
 ; Overwrite file...
 ;
 MSG_REQU_OVERWRITE_S
@@ -392,7 +392,7 @@ umístìný v adresáøi
 ; located in
 ;
 MSG_NOFILEACCESS_E
-   
+ 
 ;  
 ;
 MSG_NODRAWERACCESS_S
@@ -400,7 +400,7 @@ Chyba pøi zamykání adresáøe
 ; Can't access drawer
 ;
 MSG_NODRAWERACCESS_E
-   
+ 
 ;  
 ;
 MSG_REQU_FILEUNPROTECT_S

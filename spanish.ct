@@ -60,7 +60,7 @@ W
 ; W
 ;
 MSG_MEN_GUISET
-Config. de la GUI
+Config. de la GUI...
 ; GUI settings...
 ;
 MSG_MEN_ABOUT
@@ -399,7 +399,7 @@ No se puede acceder al cajón
 ; Can't access drawer
 ;
 MSG_NODRAWERACCESS_E
-?  
+? 
 ;
 MSG_REQU_FILEUNPROTECT_S
 Quieres desproteger el fichero

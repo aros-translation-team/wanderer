@@ -216,7 +216,7 @@ I
 ; I
 ;
 MSG_MEN_DELETE
-Izbri¹i
+Izbri¹i...
 ; Delete...
 ;
 MSG_MEN_TOOLS
@@ -388,7 +388,7 @@ Ne mogu pristupiti datoteci
 ; Can't access file
 ;
 MSG_NOFILEACCESS_M
-koja se nalazi 
+koja se nalazi
 ; located in
 ;
 MSG_NOFILEACCESS_E

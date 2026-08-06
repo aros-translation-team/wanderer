@@ -45,13 +45,13 @@ MSG_MEN_SC_EXECUTE
 E
 ;
 MSG_MEN_SHELL
-Shell...
+Shell
 ;
 MSG_MEN_SC_SHELL
 W
 ;
 MSG_MEN_GUISET
-Configuração do GUI
+Configuração do GUI...
 ; GUI Settings...
 ;
 MSG_MEN_ABOUT
@@ -232,7 +232,7 @@ MSG_DUMMY
 DUMMY
 ; DUMMY :)
 MSG_USERSCREENTITLE
-Wanderer: Memória Gráfica %pc - Outra memória %f
+Wanderer: Memória Gráfica %pc - Outra memória %pf
 ; Wanderer %pc graphics mem %pf other mem
 ;
 MSG_MEN_FORMAT

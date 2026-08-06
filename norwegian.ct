@@ -392,7 +392,7 @@ i
 ; located in
 ;
 MSG_NOFILEACCESS_E
-ingen tilgang til filen
+ingen tilgang til filen 
 ;  
 ;
 MSG_NODRAWERACCESS_S
@@ -420,7 +420,7 @@ Wanderer filhåndtering
 ; Wanderer file access
 ;
 MSG_WANDERER_FILEACCESS_PROCESSING
-Prosesserer 
+Prosesserer...
 ; Processing...
 ;
 MSG_WANDERER_FILEACCESS_STOP
@@ -479,7 +479,7 @@ MSG_WANDERER_ERROR_FILE_OPERATION
 En feil oppstod under en filoperasjon
 ;
 MSG_FAILED_TO_ALLOCATE_MEMORY
-Klarte ikke allokere nok minne (%d byte) 
+Klarte ikke allokere nok minne (%d byte)
 ;
 MSG_FAILED_TO_READ_FILE
 lesing av filen: %s\n
