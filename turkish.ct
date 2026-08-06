@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 3.0 (15.12.2020)
+## version $VER: wanderer.catalog 4.0 (06.08.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -392,7 +392,7 @@ konumlanmýþ
 ; located in
 ;
 MSG_NOFILEACCESS_E
-
+ 
 ;  
 ;
 MSG_NODRAWERACCESS_S
@@ -400,7 +400,7 @@ MSG_NODRAWERACCESS_S
 ; Can't access drawer
 ;
 MSG_NODRAWERACCESS_E
-
+ 
 ;  
 ;
 MSG_REQU_FILEUNPROTECT_S
@@ -458,6 +458,10 @@ MSG_WANDERER_FILEACCESS_DELETEFROM
 MSG_WANDERER_FILEACCESS_FILETODELETE
 Silinecek dosya
 ; File to delete
+;
+MSG_WANDERER_FILEACCESS_DELETINGFILE
+Dosya siliniyor
+; Deleting file
 ;
 MSG_WANDERER_FILEACCESS_NOOFFILES
 Ýþlenen dosyalar:

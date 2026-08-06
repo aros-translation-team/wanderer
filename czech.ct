@@ -1,4 +1,4 @@
-## version $VER: Wanderer.catalog 3.0 (26.02.2021)
+## version $VER: Wanderer.catalog 4.0 (06.08.2026)
 ## language czech
 ## codeset 5
 ;
@@ -458,6 +458,10 @@ Smazat z adresáøe
 MSG_WANDERER_FILEACCESS_FILETODELETE
 Smazat soubor
 ; File to delete
+;
+MSG_WANDERER_FILEACCESS_DELETINGFILE
+Mazání souboru
+; Deleting file
 ;
 MSG_WANDERER_FILEACCESS_NOOFFILES
 Zpracovaných souborù:

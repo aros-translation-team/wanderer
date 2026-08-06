@@ -1,4 +1,4 @@
-## version $VER: Wanderer.catalog 3.0 (08.06.2017)
+## version $VER: Wanderer.catalog 4.0 (06.08.2026)
 ## language français
 ## codeset 0
 ;
@@ -459,6 +459,10 @@ MSG_WANDERER_FILEACCESS_FILETODELETE
 Fichier à supprimer
 ; File to delete
 ;
+MSG_WANDERER_FILEACCESS_DELETINGFILE
+Suppression du fichier
+; Deleting file
+;
 MSG_WANDERER_FILEACCESS_NOOFFILES
 Fichiers traités :
 ; Processed files:
@@ -470,6 +474,50 @@ Taille du fichier courant :
 MSG_WANDERER_FILEACCESS_TOTAL
 Taille totale :
 ; Overall size:
+;
+MSG_WANDERER_ERROR_FILE_OPERATION
+Une erreur s'est produite lors de l'opération sur le fichier
+; Error occured while performing file operation
+;
+MSG_FAILED_TO_ALLOCATE_MEMORY
+Impossible d'allouer %d octets de mémoire
+; Failed to allocate %d bytes of memory
+;
+MSG_FAILED_TO_READ_FILE
+lecture du fichier : %s\n
+; reading from file: %s\n
+;
+MSG_FAILED_TO_WRITE_TO_FILE
+écriture dans le fichier : %s\n
+; writing to file: %s\n
+;
+MSG_FAILED_TO_READ_FILE_INFO_BLOCK
+lecture du bloc d'information du fichier : %s
+; reading file info block for file: %s
+;
+MSG_FAILED_TO_CREATE_DIRECTORY
+création du répertoire : %s\n
+; creating directory: %s\n
+;
+MSG_FAILED_TO_DELETE_FILE
+suppression du fichier : %s\n
+; deleting file: %s\n
+;
+MSG_FAILED_TO_LOCK_PATH
+verrouillage du chemin : %s
+; locking path: %s
+;
+MSG_FAILED_TO_READ_DIRECTORY_CONTENT
+lecture du répertoire : %s\n
+; reading from directory: %s\n
+;
+MSG_FAILED_TO_MOVE_FILE
+déplacement du fichier : %s\n
+; moving file: %s\n
+;
+MSG_FAILED_ERROR
+Erreur
+; Error
 ;
 MSG_IO_ERROR
 Erreur E/S

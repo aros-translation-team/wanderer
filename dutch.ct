@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 1.1 (09.02.2006)
+## version $VER: wanderer.catalog 4.0 (06.08.2026)
 ## language nederlands
 ## codeset 0
 ;
@@ -167,6 +167,10 @@ MSG_MEN_BYSIZE
 Op grootte
 ; By size
 ;
+MSG_MEN_BYTYPE
+Op type
+; By type
+;
 MSG_MEN_REVERSE
 Omdraaien
 ; Reverse
@@ -219,6 +223,18 @@ MSG_MEN_TOOLS
 Tools
 ; Tools
 ;
+MSG_MEN_ICONSORTING
+Automatisch Sorteren van Iconen Inschakelen
+; Enable Automatic Icon Sorting
+;
+MSG_MEN_GROUPICONS
+Groepeer Iconen
+; Group Icons
+;
+MSG_MEN_ICONSCLOSE
+Sluit
+; Close
+;
 MSG_REALLYQUIT
 Wilt u Wanderer echt stoppen?
 ; Do you really want to quit Wanderer?
@@ -231,6 +247,278 @@ MSG_DUMMY
 Dummy
 ; DUMMY
 ; DUMMY :)
+MSG_USERSCREENTITLE
+Wanderer %pc grafisch %pf ander
+; Wanderer %pc graphics mem %pf other mem
+;
+MSG_MEN_FORMAT
+Formatteer schijf...
+; Format disk...
+;
+MSG_MEN_SHUTDOWN
+Afsluiten...
+; Shut down...
+;
+MSG_SHUTDOWN_TITLE
+Systeem afsluiten
+; System shutdown
+;
+MSG_SHUTDOWN_BODY
+Wat wilt u doen?
+; What would you like to do?
+;
+MSG_SHUTDOWN_BUTTONS
+Uitschakelen|Computer herstarten|AROS herstarten|*Annuleer
+; Power Off|Restart Computer|Restart AROS|*Cancel
+;
+MSG_ACTION_NOT_SUPPORTED
+De geselecteerde actie wordt niet ondersteund door uw systeem.
+; The selected action is not supported by your system.
+;
+MSG_OK
+*OK
+; *OK
+;
+MSG_EMPTY_TRASH
+Leeg prullenbak
+; Empty trash
+;
+MSG_MEN_PUT_AWAY
+Leg terug
+; Put away
+;
+MSG_MEN_SC_PUT_AWAY
+P
+; P
+;
+MSG_MEN_LEAVE_OUT
+Laat buiten
+; Leave out
+;
+MSG_MEN_SC_LEAVE_OUT
+L
+; L
+;
+MSG_MEN_UNSNAPSHOT
+Positie vrijgeven
+; Unsnapshot
+;
+MSG_MEN_SC_UNSNAPSHOT
+U
+; U
+;
+MSG_MEN_SNAPSHOT
+Snapshot
+; Snapshot
+;
+MSG_MEN_SC_SNAPSHOT
+S
+; S
+;
+MSG_REQU_DELETE
+Bestand verwijderen...
+; Delete file...
+;
+MSG_REQU_DELETE_YESNO
+_Ja|Ja op _alles|_Nee|Nee op a_lles
+; _Yes|Yes to _all|_No|No _to all
+;
+MSG_REQU_DELETE_DRAWER_S
+Map
+; Really delete drawer
+;
+MSG_REQU_DELETE_DRAWER_E
+echt verwijderen?
+; ?
+;
+MSG_REQU_DELETE_FILE_S
+Bestand
+; Really delete file
+;
+MSG_REQU_DELETE_FILE_M
+in map
+; located in
+;
+MSG_REQU_DELETE_FILE_E
+echt verwijderen?
+; ?
+;
+MSG_REQU_OVERWRITE
+Bestand overschrijven...
+; Overwrite file...
+;
+MSG_REQU_OVERWRITE_S
+Bestand
+; Really overwrite file
+;
+MSG_REQU_OVERWRITE_M
+in map
+; located in
+;
+MSG_REQU_OVERWRITE_E
+echt overschrijven?
+; ?
+;
+MSG_REQU_OVERWRITE_YESNO
+_Overschrijf|Overschrijf _alles|_Nee|Nee op a_lles
+; _Overwrite|Overwrite _all|_No|No _to all
+;
+MSG_REQU_OVERWRITE_SKIPABORT
+_Sla over|Breek _af
+; _Skip|_Abort
+;
+MSG_REQU_PROTECTION
+Bestandsbeveiliging
+; File Protection
+;
+MSG_REQU_PROTECTION_UNPROTECT
+Beveiliging _opheffen|_Alles opheffen|_Nee|Nee op a_lles
+; _Unprotect|Unprotect _All|_No|No _to ALL
+;
+MSG_REQU_PROTECTION_UNPROTECTDRAWER_S
+Wilt u de beveiliging opheffen van map
+; Do you wish to unprotect drawer
+;
+MSG_REQU_PROTECTION_UNPROTECTDRAWER_E
+?
+; ?
+;
+MSG_NOFILEACCESS_S
+Geen toegang tot bestand
+; Can't access file
+;
+MSG_NOFILEACCESS_M
+in map
+; located in
+;
+MSG_NOFILEACCESS_E
+ 
+;  
+MSG_NODRAWERACCESS_S
+Geen toegang tot map
+; Can't access drawer
+;
+MSG_NODRAWERACCESS_E
+ 
+;  
+MSG_REQU_FILEUNPROTECT_S
+Wilt u de beveiliging opheffen van bestand
+; Do you wish to unprotect file
+;
+MSG_REQU_FILEUNPROTECT_M
+in map
+; located in
+;
+MSG_REQU_FILEUNPROTECT_E
+?
+; ?
+;
+MSG_WANDERER_FILEACCESS
+Wanderer bestandstoegang
+; Wanderer file access
+;
+MSG_WANDERER_FILEACCESS_PROCESSING
+Bezig met verwerken...
+; Processing...
+;
+MSG_WANDERER_FILEACCESS_STOP
+Stop
+; Stop
+;
+MSG_WANDERER_FILEACCESS_MOVEFROM
+Verplaats van
+; Move from
+;
+MSG_WANDERER_FILEACCESS_MOVETO
+Verplaats naar
+; Move to
+;
+MSG_WANDERER_FILEACCESS_COPYFROM
+Kopieer van
+; Copy from
+;
+MSG_WANDERER_FILEACCESS_COPYTO
+Kopieer naar
+; Copy to
+;
+MSG_WANDERER_FILEACCESS_FILE
+Bestand
+; File
+;
+MSG_WANDERER_FILEACCESS_TRAFFIC
+Overdrachtssnelheid
+; Data transfer rate
+;
+MSG_WANDERER_FILEACCESS_DELETEFROM
+Verwijder uit map
+; Delete from drawer
+;
+MSG_WANDERER_FILEACCESS_FILETODELETE
+Te verwijderen bestand
+; File to delete
+;
+MSG_WANDERER_FILEACCESS_DELETINGFILE
+Bestand wordt verwijderd
+; Deleting file
+;
+MSG_WANDERER_FILEACCESS_NOOFFILES
+Verwerkte bestanden:
+; Processed files:
+;
+MSG_WANDERER_FILEACCESS_ACTUAL
+Grootte van huidig bestand:
+; Size of current file:
+;
+MSG_WANDERER_FILEACCESS_TOTAL
+Totale grootte:
+; Overall size:
+;
+MSG_WANDERER_ERROR_FILE_OPERATION
+Er is een fout opgetreden tijdens de bestandsbewerking
+; Error occured while performing file operation
+;
+MSG_FAILED_TO_ALLOCATE_MEMORY
+Kon %d bytes geheugen niet toewijzen
+; Failed to allocate %d bytes of memory
+;
+MSG_FAILED_TO_READ_FILE
+lezen van bestand: %s\n
+; reading from file: %s\n
+;
+MSG_FAILED_TO_WRITE_TO_FILE
+schrijven naar bestand: %s\n
+; writing to file: %s\n
+;
+MSG_FAILED_TO_READ_FILE_INFO_BLOCK
+lezen van infoblok voor bestand: %s
+; reading file info block for file: %s
+;
+MSG_FAILED_TO_CREATE_DIRECTORY
+aanmaken van map: %s\n
+; creating directory: %s\n
+;
+MSG_FAILED_TO_DELETE_FILE
+verwijderen van bestand: %s\n
+; deleting file: %s\n
+;
+MSG_FAILED_TO_LOCK_PATH
+vergrendelen van pad: %s
+; locking path: %s
+;
+MSG_FAILED_TO_READ_DIRECTORY_CONTENT
+lezen van map: %s\n
+; reading from directory: %s\n
+;
+MSG_FAILED_TO_MOVE_FILE
+verplaatsen van bestand: %s\n
+; moving file: %s\n
+;
+MSG_FAILED_ERROR
+Fout
+; Error
+;
+;
+;
 MSG_IO_ERROR
 I/O-fout
 ; I/O Error
