@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (07.10.2019)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language norsk
 ## codeset 0
 ;
@@ -510,4 +510,12 @@ Feil
 ;
 MSG_IO_ERROR
 I/O-feil
+;
+MSG_SHUTDOWN_BODY2
+Hva ønsker du å gjøre?\n(hold Ctrl nede sammen med Start på nytt for kun å forsøke en varmstart)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Skru av maskinen|Start på nytt|*Avbryte
+; Power Off|Reboot|*Cancel
 ;

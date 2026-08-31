@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (07.08.2024)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -520,4 +520,12 @@ Errorea
 MSG_IO_ERROR
 I/O Errorea
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Zer egin nahi duzu?\n(eutsi Ctrl sakatuta Berrabiarazi aukerarekin berrabiarazte epela soilik saiatzeko)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Itzali|Berrabiarazi|*Deuseztu
+; Power Off|Reboot|*Cancel
 ;

@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (06.08.2026)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -522,4 +522,12 @@ Pogre¹ka
 MSG_IO_ERROR
 Gre¹ka I/O
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+©to ¾elite uèiniti?\n(dr¾ite Ctrl uz Resetiraj za poku¹aj samo toplog restarta)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Iskljuèiti|Resetiraj|*Odustani
+; Power Off|Reboot|*Cancel
 ;

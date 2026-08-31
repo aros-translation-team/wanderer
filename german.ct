@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (12.01.2021)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language deutsch
 ## codeset 0
 ;
@@ -522,4 +522,12 @@ Fehler
 MSG_IO_ERROR
 I/O-Fehler
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Was möchten Sie tun?\n(Strg beim Neustart gedrückt halten, um nur einen Warmstart zu versuchen)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Abschalten|Neustart|*Abbrechen
+; Power Off|Reboot|*Cancel
 ;

@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (06.08.2026)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language magyar
 ## codeset 5
 ;
@@ -521,4 +521,12 @@ Hiba
 MSG_IO_ERROR
 I/O hiba
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Mit szeretnél tenni?\n(tartsd nyomva a Ctrl-t az Újraindítás mellett, hogy csak meleg újraindítás történjen)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Kikapcsolás|Újraindítás|*Mégsem
+; Power Off|Reboot|*Cancel
 ;

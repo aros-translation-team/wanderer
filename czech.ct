@@ -1,4 +1,4 @@
-## version $VER: Wanderer.catalog 4.0 (06.08.2026)
+## version $VER: Wanderer.catalog 5.0 (31.08.2026)
 ## language czech
 ## codeset 5
 ;
@@ -522,4 +522,12 @@ Chyba
 MSG_IO_ERROR
 Chyba I/O
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Vyberte prosím po¾adovanou akci.\n(podr¾te Ctrl s volbou Restartovat pro pokus pouze o teplý restart)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Vypnout|Restartovat|*Zru¹it
+; Power Off|Reboot|*Cancel
 ;

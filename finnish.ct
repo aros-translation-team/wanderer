@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (06.08.2026)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -522,4 +522,12 @@ Virhe
 MSG_IO_ERROR
 I/O-virhe
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Mit‰ haluat tehd‰?\n(pid‰ Ctrl pohjassa K‰ynnist‰ uudelleen -valinnan kanssa yritt‰‰ksesi vain l‰mmink‰ynnistyst‰)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Sammuta|K‰ynnist‰ uudelleen|*Peru
+; Power Off|Reboot|*Cancel
 ;

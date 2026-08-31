@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (01.06.2023)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language polski
 ## codeset 5
 ;
@@ -521,4 +521,12 @@ B³±d
 MSG_IO_ERROR
 B³±d I/O
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Co chcesz zrobiæ?\n(przytrzymaj Ctrl przy opcji Uruchom ponownie, aby spróbowaæ tylko ciep³ego restartu)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Wy³±cz|Uruchom ponownie|*Poniechaj
+; Power Off|Reboot|*Cancel
 ;

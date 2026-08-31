@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (06.08.2026)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language svenska
 ## codeset 0
 ;
@@ -522,4 +522,12 @@ Fel
 MSG_IO_ERROR
 I/O-fel
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Vad vill du göra?\n(håll ned Ctrl med Starta om för att endast försöka med en varmstart)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Stäng av|Starta om|*Avbryt
+; Power Off|Reboot|*Cancel
 ;

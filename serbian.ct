@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (06.08.2026)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language srpski
 ## codeset 8
 ;
@@ -521,4 +521,12 @@ Greçka
 MSG_IO_ERROR
 U/I greçka
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+æta §elite da uradite?\n(dr§ite Ctrl uz Restartuj da biste pokuçali samo topli restart)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+IskljuŸi|Restartuj|*Odustani
+; Power Off|Reboot|*Cancel
 ;

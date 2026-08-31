@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (17.02.2021)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language russian
 ## codeset 2104
 ;
@@ -519,4 +519,12 @@ MSG_FAILED_ERROR
 MSG_IO_ERROR
 Ошибка ввода/вывода
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Выберите действие\n(удерживайте Ctrl при выборе «Перезагрузка», чтобы выполнить только тёплую перезагрузку)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Завершение работы|Перезагрузка|*Отменить
+; Power Off|Reboot|*Cancel
 ;

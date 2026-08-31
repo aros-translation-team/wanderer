@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (29.04.2023)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language italiano
 ## codeset 0
 ; Authors: AMIGASYSTEM
@@ -522,4 +522,12 @@ Errore
 MSG_IO_ERROR
 Errore I/O
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+Cosa preferisci fare?\n(tieni premuto Ctrl con Riavvia per tentare solo un riavvio a caldo)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Spegni|Riavvia|*Annulla
+; Power Off|Reboot|*Cancel
 ;

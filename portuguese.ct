@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 4.0 (06.08.2026)
+## version $VER: wanderer.catalog 5.0 (31.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -506,4 +506,12 @@ Erro
 MSG_IO_ERROR
 Erro de E/S
 ; I/O Error
+;
+MSG_SHUTDOWN_BODY2
+O que deseja fazer?\n(mantenha Ctrl premido com Reiniciar para tentar apenas um reinício a quente)
+; What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot)
+;
+MSG_SHUTDOWN_BUTTONS2
+Desligar|Reiniciar|*Cancelar
+; Power Off|Reboot|*Cancel
 ;
