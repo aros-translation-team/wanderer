@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 5.0 (31.08.2026)
+## version $VER: wanderer.catalog 6.0 (08.09.2026)
 ## language russian
 ## codeset 2104
 ;
@@ -527,4 +527,8 @@ MSG_SHUTDOWN_BODY2
 MSG_SHUTDOWN_BUTTONS2
 Завершение работы|Перезагрузка|*Отменить
 ; Power Off|Reboot|*Cancel
+;
+MSG_MEN_RESIZETOFIT
+Подогнать по содержимому
+; Resize to fit
 ;

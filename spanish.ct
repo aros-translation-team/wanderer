@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 5.0 (31.08.2026)
+## version $VER: wanderer.catalog 6.0 (08.09.2026)
 ## language español
 ## codeset 0
 ;
@@ -527,4 +527,8 @@ MSG_SHUTDOWN_BODY2
 MSG_SHUTDOWN_BUTTONS2
 Apagar|Reiniciar|*Cancelar
 ; Power Off|Reboot|*Cancel
+;
+MSG_MEN_RESIZETOFIT
+Ajustar al contenido
+; Resize to fit
 ;

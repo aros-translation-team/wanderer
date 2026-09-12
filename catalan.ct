@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 5.0 (31.08.2026)
+## version $VER: wanderer.catalog 6.0 (08.09.2026)
 ## language català
 ## codeset 0
 ;
@@ -529,4 +529,8 @@ Què voleu fer?\n(manteniu Ctrl amb Reiniciar per intentar només un reinici en ca
 MSG_SHUTDOWN_BUTTONS2
 Apagar|Reiniciar|*Cancel·lar
 ; Power Off|Reboot|*Cancel
+;
+MSG_MEN_RESIZETOFIT
+Ajustar al contingut
+; Resize to fit
 ;
