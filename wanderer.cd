@@ -395,3 +395,6 @@ What would you like to do?\n(hold Ctrl with Reboot to only attempt a warm reboot
 MSG_SHUTDOWN_BUTTONS2 (//)
 Power Off|Reboot|*Cancel
 ;
+MSG_MEN_RESIZETOFIT (//)
+Resize to fit
+;

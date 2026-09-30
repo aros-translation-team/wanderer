@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 5.0 (31.08.2026)
+## version $VER: wanderer.catalog 6.0 (08.09.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -528,4 +528,8 @@ Zer egin nahi duzu?\n(eutsi Ctrl sakatuta Berrabiarazi aukerarekin berrabiarazte
 MSG_SHUTDOWN_BUTTONS2
 Itzali|Berrabiarazi|*Deuseztu
 ; Power Off|Reboot|*Cancel
+;
+MSG_MEN_RESIZETOFIT
+Edukira egokitu
+; Resize to fit
 ;

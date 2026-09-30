@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 5.0 (31.08.2026)
+## version $VER: wanderer.catalog 6.0 (08.09.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -530,4 +530,8 @@ MSG_SHUTDOWN_BODY2
 MSG_SHUTDOWN_BUTTONS2
 Iskljuèiti|Resetiraj|*Odustani
 ; Power Off|Reboot|*Cancel
+;
+MSG_MEN_RESIZETOFIT
+Prilagodi sadr¾aju
+; Resize to fit
 ;

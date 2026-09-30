@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 5.0 (31.08.2026)
+## version $VER: wanderer.catalog 6.0 (08.09.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -530,4 +530,8 @@ Mitä haluat tehdä?\n(pidä Ctrl pohjassa Käynnistä uudelleen -valinnan kanssa yri
 MSG_SHUTDOWN_BUTTONS2
 Sammuta|Käynnistä uudelleen|*Peru
 ; Power Off|Reboot|*Cancel
+;
+MSG_MEN_RESIZETOFIT
+Sovita sisältöön
+; Resize to fit
 ;
