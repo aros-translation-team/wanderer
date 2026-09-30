@@ -9,7 +9,7 @@ Wanderer
 ;
 MSG_DESCRIPTION
 Administrador de Arquivos
-; File Manager
+; File manager
 ;
 MSG_SCREENTITLE
 Wanderer: Memória Gráfica %s | Outra Memória %s
@@ -52,7 +52,7 @@ W
 ;
 MSG_MEN_GUISET
 Configuração do GUI...
-; GUI Settings...
+; GUI settings...
 ;
 MSG_MEN_ABOUT
 Acerca de ...
@@ -71,14 +71,14 @@ Janela
 ;
 MSG_MEN_NEWDRAW
 Novo Directório...
-; New Drawer...
+; New drawer...
 ;
 MSG_MEN_SC_NEWDRAW
 N
 ;
 MSG_MEN_OPENPAR
 Abrir Anterior
-; Open Parent
+; Open parent
 ;
 MSG_MEN_CLOSE
 Fechar
@@ -93,7 +93,7 @@ Actualizar
 ;
 MSG_MEN_CONTENTS
 Selecionar conteúdo
-; Select Contents
+; Select contents
 ;
 MSG_MEN_SC_CONTENTS
 A
@@ -138,7 +138,7 @@ Ordenar
 ;
 MSG_MEN_CLNUP
 Limpar
-; Clean Up
+; Clean up
 ;
 MSG_MEN_SC_CLNUP
 U
@@ -149,7 +149,7 @@ Por nome
 ;
 MSG_MEN_BYDATE
 Por data
-; By Date
+; By date
 ;
 MSG_MEN_BYSIZE
 Por tamanho

@@ -9,7 +9,7 @@ Wanderer
 ;
 MSG_DESCRIPTION
 Bestanden Manager
-; File Manager
+; File manager
 ;
 MSG_SCREENTITLE
 Wanderer %s grafisch %s ander
@@ -61,7 +61,7 @@ W
 ;
 MSG_MEN_GUISET
 GUI Instellingen...
-; GUI Settings...
+; GUI settings...
 ;
 MSG_MEN_ABOUT
 Over...
@@ -81,7 +81,7 @@ Venster
 ;
 MSG_MEN_NEWDRAW
 Nieuwe Map...
-; New Drawer...
+; New drawer...
 ;
 MSG_MEN_SC_NEWDRAW
 N
@@ -89,7 +89,7 @@ N
 ;
 MSG_MEN_OPENPAR
 Open hogere
-; Open Parent
+; Open parent
 ;
 MSG_MEN_CLOSE
 Sluit
@@ -105,7 +105,7 @@ Werk bij
 ;
 MSG_MEN_CONTENTS
 Selecteer inhoud
-; Select Contents
+; Select contents
 ;
 MSG_MEN_SC_CONTENTS
 A
@@ -149,7 +149,7 @@ Gesorteerd
 ;
 MSG_MEN_CLNUP
 Ruim Op
-; Clean Up
+; Clean up
 ;
 MSG_MEN_SC_CLNUP
 U
@@ -161,7 +161,7 @@ Op naam
 ;
 MSG_MEN_BYDATE
 Op datum
-; By Date
+; By date
 ;
 MSG_MEN_BYSIZE
 Op grootte
